@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cloud Projects: </h2>
 
 - <b>AWS & Terraform</b>
-  - [Serverless Web Application](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Personal Development Environement](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Serverless Web Application](https://github.com/)
+  - [Personal Development Environement](https://github.com/)
 
 <h2>👮 Cybersecurity Projects</h2>
 
@@ -21,10 +21,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PaoloEsguerra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="PaoloEsguerra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://twitter.com/
 [linkedin]: https://linkedin.com/in/paolo-esguerra/
 
 <!--
