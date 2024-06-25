@@ -8,12 +8,12 @@
 
 <h2>👮 Cybersecurity Projects</h2>
 
-  - [PISCES SOC Analyst]()
-  - [Active Directory Home Lab]()
+  - [PISCES SOC Analyst](https://github.com/PSEsguerra/PISCES_Project)
+  - [Active Directory Home Lab](https://github.com/PSEsguerra/AD_Environment)
 
 <h2>📜 Certifications</h2>
 
-  - [Terraform Associate]()
+  - [Terraform Associate](https://www.credly.com/badges/4934b33d-4522-4b98-82c6-e1b0df88674a/linked_in?t=sfluuj)
   - [AWS Solutions Architect -Associate](https://www.credly.com/badges/76dc93df-1c9d-40bb-942f-6ff74999a4de/linked_in_profile)
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/80423ecd-aa24-4735-870a-3ad5159b4725/linked_in_profile)
   - [CompTIA Network+](https://www.credly.com/badges/86b02de9-27b1-4e07-a5e5-812c8fd4094b/linked_in_profile)
